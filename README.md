@@ -22,7 +22,7 @@ This project demonstrates the development of a hand tracking gesture-controlled 
 
 1. Clone the repository (if not already done):
     ```bash
-    git clone [https://github.com/](https://github.com/)<your-username>/hand-tracking-mouse-control.git
+    git clone https://github.com/faizluqman7/hand-tracking-mouse-control.git
     ```
 2. Navigate to the project directory.
 3. Run the script:
