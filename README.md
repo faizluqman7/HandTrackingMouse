@@ -1,13 +1,49 @@
 # Hand Tracking Gesture-Controlled Computer Interface
-This project demonstrates the development of a hand tracking gesture-controlled computer interface for accessible mouse control. It utilizes computer vision techniques for real-time hand tracking using OpenCV and MediaPipe libraries in Python.
 
-## Details
-A simple mouse controller interface that interprets live hand gestures captured from the user's webcam to control the mouse cursor.
-Implemented using OpenCV and MediaPipe for real-time hand tracking.
+**Empowering Accessibility with Intuitive Hand Gestures**
 
-## How to use
-1. Download the main.py file (for now) and install the required libraries (pip install mediapipe, pip install opencv)
-2. Run the program, a video feed should appear
-3. Move your hand to control the mouse cursor
-4. Combine your index and thumb tips to activate a click
+This project demonstrates the development of a hand tracking gesture-controlled computer interface, enhancing accessibility by enabling users to control the mouse cursor using hand movements. It leverages the power of computer vision, implemented in Python using the OpenCV and MediaPipe libraries.
 
+**Key Features:**
+
+* **Real-Time Hand Tracking:** Seamlessly track your hand movements for intuitive interaction.
+* **Intuitive Gesture Control:** Control the mouse cursor with gestures (e.g., combine index and thumb for clicking).
+* **Customizable Potential:** Explore possibilities for adding more gestures and functionalities in future development.
+
+**Getting Started:**
+
+**Prerequisites:**
+
+* Install the required libraries:
+    * `pip install opencv-python`
+    * `pip install mediapipe`
+
+**Running the Interface:**
+
+1. Clone the repository (if not already done):
+    ```bash
+    git clone [https://github.com/](https://github.com/)<your-username>/hand-tracking-mouse-control.git
+    ```
+2. Navigate to the project directory.
+3. Run the script:
+    ```bash
+    python main.py
+    ```
+
+**User Interaction:**
+
+* A video feed will appear, displaying your hand.
+* Move your hand to control the mouse cursor.
+* Combine your index and thumb tips to activate a click.
+
+**Further Development:**
+
+* Implement additional gestures for various mouse functionalities (e.g., dragging, scrolling).
+* Improve accuracy and robustness of hand tracking using advanced algorithms.
+* Develop a user-friendly interface for better accessibility.
+* Explore integration with other applications for enhanced functionality.
+
+**Contribute to the Project:**
+
+* Report issues or suggest improvements.
+* Fork the repository and add your own features.
